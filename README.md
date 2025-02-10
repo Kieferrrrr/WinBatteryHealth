@@ -1,10 +1,6 @@
 # WinBatteryHealth
 WinBatteryHealth is a very basic Python module for getting the original maximum capacity, current maximum capacity and 
 percentage battery health of your Windows laptop.
-![image](https://github.com/Kieferrrrr/WinBatteryHealth/assets/157843487/98d3c5cf-efa4-4195-9417-6f49648078e4)
-
-## BHM.py
-WinBatteryHealth comes with the BHM.py file which demonstrates the simple use of this module
 
 ## Installation Through Git Clone
 ```shell
